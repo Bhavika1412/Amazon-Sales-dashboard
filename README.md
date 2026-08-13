@@ -41,6 +41,9 @@ Interactive filters and slicers allow users to explore the data based on differe
 The overall workflow followed for this project was:
 
 **Raw Dataset → Data Cleaning in Excel → Data Import → Data Modeling in Power BI → DAX Calculations → Dashboard Development → Data Analysis**
+## Screenshot
+Show what the dashboard looks like -
+Example: ![Dashboard Preview](https://github.com/Bhavika1412/Amazon-Sales-dashboard/blob/main/Amazon%20Sales%20dashboard%20snapshot.png)
 
 ## Project File
 
